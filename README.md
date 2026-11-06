@@ -81,7 +81,7 @@ This repository contains my notes from my Principles of Cloud Security class and
 
 
 
-### Real- World Example
+### Real-World Example
 
 If a company has a system with different users:
 
@@ -122,9 +122,41 @@ This project checks whether a password is strong or weak based on basic security
 
 ## Mini Project 2: Login System 
 
-Features:
-- User login
-- Account creation
-- Username checking
-- Password verification
-- User storage system in dictionary
+### Description
+
+* A beginner Python project that shows a basic login system of a user creating an account. 
+
+### Features
+
+* User login
+* Account creation
+* Username checking
+* Password verification
+* User storage system in dictionary
+
+### What I Learned 
+
+* Variables
+* Check User input
+* If/else statements
+* Starting a dictionary to hold users passwords
+
+## Mini Project 3: Calculator
+
+### Description
+
+* This project is a simple calculator that calculates user's input. (Only using +,-,*,/)
+
+### Features
+
+* Addition, Subtraction, Multiplcation, and Division
+* Protects users from dividing by 0
+* Option to exit the program
+* You get to choose the numbers
+
+### What I Learned
+
+* How while loops are used in python
+* Gotten better at using if/else statements
+* Know how to add error messages if user does something wrong and provide feedback on it.
+* Got better at handling user input

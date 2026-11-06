@@ -1,8 +1,8 @@
-# Cloud Security Notes & Labs
+# Python Projects and Principles of Cloud Security Notes
 
-This repository contains my notes and labs from my Principles of Cloud Security class. This shows my understanding of cloud security concepts and basic implementations.
+This repository contains my notes from my Principles of Cloud Security class and Python Projects that I have built overtime. 
 
-## Topics Covered:
+# Princples of Cloud Security Notes: (Python Projects start on Line 100):
 
 ### Introduction to Information Security
 
@@ -34,17 +34,7 @@ This repository contains my notes and labs from my Principles of Cloud Security 
 * Develop hands-on skills for future projects
 * Work towards creating real-world cloud security systems
 
-## Next Step
-
-Working on my first cloud security mini project.
-
-## Mini Project: Securing a Simple System
-
-### Scenario
-
-In this project, I applied basic cloud security principles to a simple system.
-
-### Security Measures
+## Security Measures
 
 #### Access Control
 
@@ -67,26 +57,18 @@ In this project, I applied basic cloud security principles to a simple system.
 * Importance of access control and data protection
 * How monitoring helps detect security issues
 
-## Mini Project 2: Access Control Implementation
-
-### Scenario
-
-This project focuses on how access control is used to protect systems and data.
-
-### Implementation
-
-#### User Roles
+### User Roles
 
 * \*\*Admin\*\*: Full access to systems
 * \*\*User\*\*: Limited access to basic features
 * \*\*Guest\*\*: Minimal or no access
 
-#### Security Principles
+### Security Principles
 
 * Applied the principle of least privilege
 * Ensured users only have access to what they need
 
-#### Risk Reduction
+### Risk Reduction
 
 * Reduced chances of unauthorized access
 * Limited potential damage from compromised accounts
@@ -99,16 +81,12 @@ This project focuses on how access control is used to protect systems and data.
 
 
 
-\### Real- World Example
-
-
+### Real- World Example
 
 If a company has a system with different users:
 
 * Admins can manage the system and settings
 * Employees can only access their work-related data
-
-
 
 By limiting access:
 
@@ -116,18 +94,19 @@ By limiting access:
 * The risk of unauthorized actions is reduced
 
 
-
-\## Mini Project 3: Password Strength Checker
-
+# Python Projects 
 
 
-\### Description
+## Mini Project 1: Password Strength Checker
+
+
+### Description
 
 This project checks whether a password is strong or weak based on basic security rules.
 
 
 
-\### Features
+### Features
 
 * Checks password length
 * Evaluates use of uppercase and lowercase letters
@@ -135,13 +114,14 @@ This project checks whether a password is strong or weak based on basic security
 
 
 
-\### What I Learned
+### What I Learned
 
 * Basic Python programming
 * Importance of strong passwords
 * How security rules are applied in real systems
 
-## Mini Project: Login System 
+## Mini Project 2: Login System 
+
 Features:
 - User login
 - Account creation
